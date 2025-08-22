@@ -1,6 +1,6 @@
 # Scam Surface Mapper
 
-**Advanced bookmarklet for OSINT fraud investigations and cybersecurity research**
+**A bookmarklet for OSINT fraud investigations and cybersecurity research**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)
