@@ -95,3 +95,6 @@ When using this tool for security research:
 - Respect website terms of service
 - Use only on sites you own or have permission to analyze
 - Consider legal implications in your jurisdiction
+
+## Do You Like It? 
+**[Support my team on Patreon](https://www.patreon.com/c/provereno)**
