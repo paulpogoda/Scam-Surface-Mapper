@@ -10,23 +10,17 @@
 
 **Scam Surface Mapper** is a browser bookmarklet designed for OSINT investigators, fact-checkers, and cybersecurity researchers. It analyzes web pages to identify and visualize potential scam infrastructure by mapping outgoing links, analyzing suspicious domains, tracking parameters, and presenting findings in an interactive graph interface.
 
-**Created by [Pavel Bannikov](https://github.com/paulpogoda)** - OSINT investigator, fact-checker, and digital profiler.
+<img src="https://github.com/user-attachments/assets/7cdfd661-a825-44d1-a274-8fc614add076" />
 
 ## 🚀 Installation
 
-### Method 1: Copy Minified Bookmarklet (Recommended)
+### Copy Minified Bookmarklet
 
 1. **Copy the minified code**: Open [`scam-surface-mapper.min.js`](scam-surface-mapper.min.js) and copy the entire content
 2. **Create bookmark**
 3. **Paste code**: Set the URL field to the copied JavaScript code
 4. **Name it**: Set name to "Scam Surface Mapper"
 5. **Save bookmark**
-
-### Method 2: Drag & Drop Installation
-
-1. **Enable bookmarks bar** in your browser
-2. **Create bookmark** with this JavaScript URL: `javascript:(function(){/* paste minified code here */})();`
-3. **Drag to bookmarks bar**
 
 ## 📖 Usage
 
