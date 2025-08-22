@@ -14,10 +14,8 @@
 
 ## 🚀 Installation
 
-### Copy Minified Bookmarklet
-
-1. **Copy the minified code**: Open [`scam-surface-mapper.min.js`](scam-surface-mapper.min.js) and copy the entire content
-2. **Create bookmark**
+1. **Copy the code**: Open [`scam-surface-mapper.min.js`](scam-surface-mapper.min.js) and copy the entire content
+2. **Create new bookmark**
 3. **Paste code**: Set the URL field to the copied JavaScript code
 4. **Name it**: Set name to "Scam Surface Mapper"
 5. **Save bookmark**
