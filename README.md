@@ -93,7 +93,6 @@ This tool is designed for:
 When using this tool for security research:
 - Follow responsible disclosure practices
 - Respect website terms of service
-- Use only on sites you own or have permission to analyze
 - Consider legal implications in your jurisdiction
 
 ## Do You Like It? 
