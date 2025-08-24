@@ -10,8 +10,6 @@
 
 **Scam Surface Mapper** is a browser bookmarklet designed for OSINT investigators, fact-checkers, and cybersecurity researchers. It analyzes web pages to identify and visualize potential scam infrastructure by mapping outgoing links, analyzing suspicious domains, tracking parameters, and presenting findings in an interactive graph interface. The tool was created with the assistance of Perplexity AI.
 
-<img src="https://github.com/user-attachments/assets/7cdfd661-a825-44d1-a274-8fc614add076" />
-
 ## 🚀 Installation
 
 1. **Copy the code**: Open [`scam-surface-mapper.js`](scam-surface-mapper.js) and copy the entire content
@@ -28,6 +26,8 @@
 3. **Explore** the analysis in the overlay interface
 
 ### Interface Guide
+
+<img src="https://github.com/user-attachments/assets/8afe4411-ae67-4777-be1d-7ee2b6da676d" />
 
 #### **Tabs**
 - **Summary**: Risk-ordered list of discovered hosts with detailed metrics
