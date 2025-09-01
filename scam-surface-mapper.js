@@ -10,7 +10,7 @@ var style=document.createElement('style');style.id='ssm_style';style.textContent
 
 /* === TAB UI vars === */
 var wrap=D.createElement('div');wrap.id='ssm_wrap', head=D.createElement('div');head.id='ssm_head';
-head.innerHTML='<strong>Scam Surface Mapper — Advanced</strong> <span style="margin-left:10px;font-weight:normal" class="ssm_small"> <a href="https://github.com/paulpogoda" target="_blank" style="color:#75a4da;font-weight:normal;">Created by Pavel Bannikov</a> </span><span class="ssm_small" style="margin-left:10px" id="ssm_stats"></span><span class="ssm_small" style="margin-left:auto">'+now.toISOString()+'</span>';
+head.innerHTML='<strong>Scam Surface Mapper — Advanced</strong> <span style="margin-left:10px;font-weight:normal" class="ssm_small"> <a href="https://github.com/paulpogoda" target="_blank" style="color:#75a4da;font-weight:normal;">Created by Pavel Bannikov for Provereno.Media</a> </span><span class="ssm_small" style="margin-left:10px" id="ssm_stats"></span><span class="ssm_small" style="margin-left:auto">'+now.toISOString()+'</span>';
 var closeBtn=D.createElement('button');closeBtn.textContent='Close ✕';closeBtn.type='button';closeBtn.id='ssm_btn';closeBtn.style.marginLeft='10px';closeBtn.onclick=function(){wrap.remove();};
 var fsOn=false,fsBtn=document.createElement('button');fsBtn.textContent="Fullscreen";fsBtn.id='ssm_btn';fsBtn.style.marginLeft='10px';
 head.appendChild(closeBtn);head.appendChild(fsBtn);
